@@ -1,8 +1,8 @@
 {
   "name": "Tasmota Vindriktning",
-  "version": "2021.11.0",
+  "version": "12.3.1",
   "home_assistant_domain": "tasmota",
-  "funding_url": "https://esphome.io/guides/supporters.html",
+  "funding_url": "https://tasmota.github.io/docs/Contributing/",
   "new_install_prompt_erase": false,
   "builds": [
     {
