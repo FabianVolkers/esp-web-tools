@@ -1,0 +1,15 @@
+{
+  "name": "espArtnetNode",
+  "version": "2.0.0",
+  "home_assistant_domain": "tasmota",
+  "funding_url": "https://tasmota.github.io/docs/Contributing/",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        { "path": "firmware/espArtnetNode_2.0.0_b5g_WEMOS.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
